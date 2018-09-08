@@ -38,9 +38,9 @@ If people like your project they’ll want to learn how they can use it. To do s
 
 ## Credits
 App Creators:
-Monica Lambrano
-David Villegas
-Adrian Robertson
+Monica Lambrano,
+David Villegas,
+Adrian Robertson,
 Nick Ferrazza
 
 © Group 6
