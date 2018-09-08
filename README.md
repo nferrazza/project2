@@ -7,6 +7,15 @@ The search references a database that populates the results page.
 The user can choose and purchase a product.
 
 ## Screenshots
+![logo](https://user-images.githubusercontent.com/35200543/45249493-3a4f3f00-b2ef-11e8-90ee-3cdd068e9d05.png)
+
+![initial_concept](https://user-images.githubusercontent.com/35200543/45249496-489d5b00-b2ef-11e8-895c-84ac34ef3885.gif)
+
+![landingpage](https://user-images.githubusercontent.com/35200543/45249498-4d620f00-b2ef-11e8-9e63-7b7a18735e58.gif)
+
+![landingpagewcookie](https://user-images.githubusercontent.com/35200543/45249505-581ca400-b2ef-11e8-9bd9-0f7971479540.gif)
+
+![requestnewacct](https://user-images.githubusercontent.com/35200543/45249507-64086600-b2ef-11e8-8394-e2f8b2c501a9.gif)
 
 
 ## Tech/framework used
