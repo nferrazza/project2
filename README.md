@@ -7,35 +7,31 @@ The search references a database that populates the results page.
 The user can choose and purchase a product.
 
 ## Screenshots
+#Logo
 ![logo](https://user-images.githubusercontent.com/35200543/45249493-3a4f3f00-b2ef-11e8-90ee-3cdd068e9d05.png)
-
+#Initial Concept (gif)
 ![initial_concept](https://user-images.githubusercontent.com/35200543/45249496-489d5b00-b2ef-11e8-895c-84ac34ef3885.gif)
-
+#Landing Page (gif)
 ![landingpage](https://user-images.githubusercontent.com/35200543/45249498-4d620f00-b2ef-11e8-9e63-7b7a18735e58.gif)
-
+#Landing Page with Cookies
 ![landingpagewcookie](https://user-images.githubusercontent.com/35200543/45249505-581ca400-b2ef-11e8-9bd9-0f7971479540.gif)
-
+#Register for new Account
 ![requestnewacct](https://user-images.githubusercontent.com/35200543/45249507-64086600-b2ef-11e8-8394-e2f8b2c501a9.gif)
 
 
 ## Tech/framework used
-Ex. -
 
-<b>Built with</b>
-- [Electron](https://electron.atom.io)
+Built using MySQL Database, Express Server, 
 
 ## Features
-What makes your project stand out?
+Features include user registration/login, admin login, cookies to store information, databases that reference queried albums, purchase page
 
-## Code Example
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Installation
 Provide step by step series of examples and explanations about how to get a development env running.
 
 ## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+API used was Discogs
 
 ## Tests
 Describe and show how to run the tests with code examples.
@@ -47,9 +43,9 @@ If people like your project they’ll want to learn how they can use it. To do s
 
 ## Credits
 App Creators:
-Monica Lambrano,
-David Villegas,
-Adrian Robertson,
-Nick Ferrazza
+Monica Lambrano (Back End),
+David Villegas (Back End),
+Adrian Robertson (Front End),
+Nick Ferrazza (Front Ent)
 
 © Group 6
